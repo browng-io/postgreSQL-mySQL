@@ -19,4 +19,4 @@ There are many differences between PostgreSQL and MySQL. Some of the differences
 |  `Support for advance data types` |  Yes |  No |
 |  `Support for multiversion concurrency control (MVCC)` |  Yes |  No |
 
-> In summary, there are distinct uses for both PostgreSQL and MySQL, and the choice between them depends upon enterprise objectives and resources. In general, PostgreSQL is a more robust, advanced database management system, well-suited for an organization that needs to perform complex queries in a large environment quickly. However, MySQL is an ideal solution for a company more constrained by budget and space.
+In summary, there are distinct uses for both PostgreSQL and MySQL, and the choice between them depends upon enterprise objectives and resources. In general, PostgreSQL is a more robust, advanced database management system, well-suited for an organization that needs to perform complex queries in a large environment quickly. However, MySQL is an ideal solution for a company more constrained by budget and space.
